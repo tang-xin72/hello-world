@@ -1,8 +1,8 @@
 # hello-world
 a test repository for DSC520 class
-# H1 Hi, DSC520 class, my name is **XIN TANG**
+# Hi, DSC520 class, my name is **XIN TANG**
 1. I am a professional with many years of experience and have a master degree.  but I have almost zero experience in coding and R. 
 2. I deal with quality control so I know a little bit of statistics, but the field I am working on do not deal with big data so we do not handle much statistical analysis. I am excited to learn more on how to use R to do statistics. 
 3. hope this study is rewarding and fun 😂
 4. I live in Texas, am married with 2 tennagers living with me. I travel quite often but will find time to this important class. 
-# H1 look forward to learn together and from all of you!
+# Look forward to learn together and from all of you!
